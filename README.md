@@ -1,4 +1,5 @@
-Vrunda_Store_Annual_Report---Excel_Data_Analytics_Project
+Vrunda_Store_Annual_Report-Excel_Data_Analytics_Project
+
 📊 Interactive Excel Dashboard | Vrunda Store Annual Report 2025  
 A complete Excel Data Analytics project featuring data cleaning, processing, pivot tables, slicers, and an interactive dashboard with insights on sales, orders, customer demographics, order status, and channel performance.
 
